@@ -1,0 +1,19 @@
+{
+  "name": "file-size-format",
+  "version": "1.0.0",
+  "description": "Format bytes to human-readable sizes (KB, MB, GB...).",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["bytes","format","filesize","human-readable"],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
