@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/file-size-format/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/file-size-format/actions)
+[![License](https://img.shields.io/github/license/Tox1469/file-size-format?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/file-size-format?style=flat-square)](https://github.com/Tox1469/file-size-format/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/file-size-format?style=flat-square)](https://github.com/Tox1469/file-size-format/stargazers)
+
+---
+
 # file-size-format
 
 Converte bytes em strings legiveis (KB, MB, GB, TB) e vice-versa. Suporta bases decimal (1000) e binaria (1024).
